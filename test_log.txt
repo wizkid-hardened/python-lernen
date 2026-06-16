@@ -1,0 +1,4 @@
+INFO: System gestartet
+WARNING: Festplatte zu 80% voll
+ERROR: Verbindung zur Datenbank verloren!
+INFO: User 'wizkid' hat sich eingeloggt
